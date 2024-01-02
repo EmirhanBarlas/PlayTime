@@ -1,3 +1,5 @@
+IM EDİT: Added log recording of the most active players every week on Sundays at 23:59...
+
 
 Description:
 Playtime is a simple plugin that i made to allow players to view their time played or another player's time played on the server. playtime is fully customizable and can be done from the configuration file.
